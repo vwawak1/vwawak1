@@ -1,7 +1,8 @@
-# heading 1
-## heading 2
-### heading 3
+# CS 225
 
+Let nothing disturb you, nothing frighten you, all things are passing, God is unchanging.   
+Patience gains all; nothing is lacking to those who have God: God alone is sufficient.  
+-- St. Teresa of Avila
 
 
 <!--
@@ -15,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
