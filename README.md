@@ -11,4 +11,6 @@ In the world you shall have distress: but have confidence, I have overcome the w
 Him whom the heavens cannot contain, the womb of one woman bore.  
 -- St. Augustine of Hippo  
 
-[Cartoons](cartoons.html)
+[Cartoons](cartoons.html)  
+
+[New User Form](newuser.html)
