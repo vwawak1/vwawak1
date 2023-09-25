@@ -12,3 +12,8 @@ I enjoy application development and exploring different kinds of programming con
 "Let nothing disturb you, nothing frighten you, all things are passing, God is unchanging.   
 Patience gains all; nothing is lacking to those who have God: God alone is sufficient."  
 -- St. Teresa of Avila
+
+## Pages.
+[Cartoons](cartoons.html)  
+
+[New User Form](newuser.html)
