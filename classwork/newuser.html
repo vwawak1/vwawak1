@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New User Form</title>
+
+        <style>
+
+            form {
+                padding: 5px;
+                font-family: Georgia, Times, 'Times New Roman', serif;
+            }
+
+            label {
+                font-family: Georgia, Times, 'Times New Roman', serif;
+            }
+
+            input {
+                padding: 3px;
+                border: 2px solid gray;
+                border-radius: 4px;
+            }
+
+            fieldset {
+                padding: 5px;
+                border: 2px solid gray;
+                border-radius: 4px;
+            }
+
+
+        </style>
+
+
+    </head>
+
+    <body>
+
+        <form>
+            <label for="First Name">First Name:</label>
+            <br/>
+            <input id="First Name" name="First Name" type="text" placeholder="John" required minlength="1" maxlength="32">
+            <br/>
+            
+            <label for="Last Name">Last Name:</label>
+            <br/>
+            <input id="Last Name" name="Last Name" type="text" placeholder="Doe" required minlength="1" maxlength="32">
+            <br/>
+
+            <label for="Password">Password:</label>
+            <br/>
+            <input id="Password" name="Password" type="password" required>
+            <br/>
+
+            <label for="Email">Email:</label>
+            <br/>
+            <input id="Email" name="Email" type="email" placeholder="ilovecats11@gmail.com" required>
+            <br/>
+
+            <label for="Tele">Phone Number:</label>
+            <br/>
+            <input id="Tele" name="Phone Number" type="tel" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="555-555-5555">
+            <br/>
+            
+            <label for="Home">HomePage:</label>
+            <br/>
+            <input id="Home" name="Homepage" type="url" placeholder="google.com">
+            <br/>
+
+            <label for="Birthday">Birthday:</label>
+            <br/>
+            <input id="Birthday" name="Birthday" type="month">
+            <br/><br/>
+
+            <label for="subscription">Can we email you?</label>
+            <input id="subscription" name="Subscription" type="checkbox">
+            <br/>
+
+            <fieldset>
+                <legend>Can we text you?</legend>
+                <input id="q1" name="textstatus" type="radio" value="Yes">
+                <label for="q1">Yes</label>
+                <br/>
+                <input id="q2" name="textstatus" type="radio" value="No">
+                <label for="q2">No</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Do you like our product?</legend>
+                <input id="1" name="productreview" type="radio" value="1">
+                <label for="1">I absolutely hate it</label>
+                <br/>
+                <input id="2" name="productreview" type="radio" value="2">
+                <label for="2">I wouldn't recommend it</label>
+                <br/>
+                <input id="3" name="productreview" type="radio" value="3">
+                <label for="3">Not Applicable/Neutral</label>
+                <br/>
+                <input id="4" name="productreview" type="radio" value="4">
+                <label for="4">I like it</label>
+                <br/>
+                <input id="5" name="productreview" type="radio" value="5">
+                <label for="5">I can't live without it</label>
+                <br/>
+            </fieldset>
+            <br/>
+
+            <input type="submit">
+            <input type="reset">
+            <br/>
+            
+
+
+        </form>
+
+    </body>
+
+</html>
