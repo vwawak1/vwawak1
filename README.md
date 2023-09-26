@@ -14,6 +14,6 @@ Patience gains all; nothing is lacking to those who have God: God alone is suffi
 -- St. Teresa of Avila
 
 ## Pages.
-[Cartoons](cartoons.html)  
+[Cartoons](classwork/cartoons.html)  
 
-[New User Form](newuser.html)
+[New User Form](classwork/newuser.html)
