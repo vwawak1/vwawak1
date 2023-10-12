@@ -8,6 +8,9 @@ Projects may range from class work, to small projects, to small sandboxes explor
 My name is Vincent and I'm a University student studying Computer Science,  
 I enjoy application development and exploring different kinds of programming concepts.  
 
+## Projects.
+[Tsunami Bot Cooperative Project](https://github.com/TsunamiBot/tsunami)
+
 ## Quotes.  
 "Let nothing disturb you, nothing frighten you, all things are passing, God is unchanging.   
 Patience gains all; nothing is lacking to those who have God: God alone is sufficient."  
