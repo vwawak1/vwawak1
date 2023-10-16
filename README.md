@@ -12,7 +12,7 @@ I enjoy application development and exploring different kinds of programming con
 [Tsunami Bot Cooperative Project](https://github.com/TsunamiBot/tsunami)  
 A project a friend and I worked on during the beginning of summer 2023 in our downtime. 
 
-["Snek" Game Java Project](https://github.com/vwawak1/SnekGame)  
+[Java Swing Project](https://github.com/vwawak1/JFrameStudy)  
 A project I began to learn more about data structures and Java Swing
 
 ## Quotes.  
