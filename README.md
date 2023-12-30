@@ -4,11 +4,10 @@
 Here is where I'll post and link to any public projects I work on.   
 Projects may range from class work, to small projects, to small sandboxes exploring various topics.  
 
-## About me.  
-My name is Vincent and I'm a University student studying Computer Science,  
-I enjoy application development and exploring different kinds of programming concepts.  
-
 ## Projects.
+
+
+## Retired Projects.
 [Tsunami Bot Cooperative Project](https://github.com/TsunamiBot/tsunami)  
 A project a friend and I worked on during the beginning of summer 2023 in our downtime. 
 
